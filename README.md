@@ -1,0 +1,1 @@
+# covide_data_from_wikipedia
